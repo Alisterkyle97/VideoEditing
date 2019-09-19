@@ -1,4 +1,70 @@
-## Welcome to GitHub Pages
+## Video Editing
+
+
+### Tools
+
+For my video editing project, I chose to use Adobe Premiere Pro.
+I used Premiere Pro because it seems to be a widely used industry standard application that I had available.
+I also used Adobe Photoshop to edit a couple photos that I included in my video.
+
+
+### How did I use these tools
+
+Premiere Pro was the main application I used. It was used to import videos, cut video lengths, create transitions, colour grading and for the final export of my video.
+
+I cut videos by watching them, finding the parts I wanted and simply shortening these.
+
+When I used transitions, I mainly used 'dip to black' as I found this tied in very well with the music I had chosen, and it bought the video and the audio together.
+
+For colour grading, I looked at a clip, colour graded depending on what I wanted to achieve, and then applied to relating videos. I then went through and tweaked each individual clip to suit.
+
+For the first part of my video, I edited the footage to look desaturated and washed out, including making the establishing shots quite desaturated as I felt it fit the scene I was trying achieve.
+
+When the bass dropped during the song, I changed the colour grading of the footage. I pumped the colours up to make them more vibrant, edited contrast, blacks, whites, shadows and highlights to draw attention to the subject of the video.
+
+When it came to me filming in the car, I edited contrast and colour to suit. I then added a warm orange tone to my footage, as it was late afternoon when I was filming, and it fit with the environment I was shooting in.
+
+I incorporated a couple photos throughout my video, only to substitute where I would put still video in. I chose to do this as it achieved the same purpose, and I could edit the photos in Photoshop.
+
+I edited the audio recording in Premiere Pro. I used dynamics, different noise filters, mastering, bass, a highpass filter and a panner. I used the filters to help filter out some noise I didn't want, although I wasn't able to eliminate all the sounds I didn't want, I used master to adjust my voice, I used bass to reduce it, as the sound of the car bought in a lot of low frequency noise, I also used a highpass filter to filter some additional low frequency noise. I then noticed that the audio in the left was always slightly higher than the right, so I used panner to help even out the sound balance.
+
+
+### Process
+
+The process I went through first included making a plan of what I wanted to shoot. I then made a plan of different shots that I wanted. I then wrote a rough script. I then sourced equipment which included a Panasonic Lumix camera and a tripod. I planned where I wanted to shoot and also the time of day in accordance to how much natural light was going to be found. After filming, the first thing I did when it came to production, was find suitable audio. I knew I had enough footage, I wanted to find audio to fit the idea i was trying to depict, and then sort through my video files and add what ones fit the scene and audio. I then colour graded all the films, and I then finally edited the audio, after researching about editing vocals and voice-overs.
+
+I found the audio used in my video from soundcloud.com. This audio was royalty free and able to be edited and used in your own videos. I have included the correct referencing inside my video description to use this audio.
+
+I took a lot of inspiration from two YouTube channels. [Thatdudeinblue](https://www.youtube.com/user/ThatDudeinBlue) and [Roads Untravelled](https://www.youtube.com/user/roadsuntraveledshow).
+
+In addition to watching many of their videos, I researched specific videos about editing videos on cars, and read all about colour grading. One thing I learnt from one of the mentioned YouTube channels, was to sync video transitions to parts of music, such as drum hits. This makes for smoother transitions throughout the video and audio.
+
+
+### Difficulties
+
+I did come across a few difficulties throughout my video production.
+
+I did not have access to the equipment that would have produced higher quality shots. These included such things as a gimbal  or slider. Looking back, at some shots I wanted to slo-mo, I would have shot at 60fps as it would have made for a smoother shot once slowed down.
+
+When filming in the car, I taped my phone to the roof and tried to record my voice to use as audio. I then found out my microphone doesn't work, and the phone was slightly caught at the top of my footage. I was unable to edit this out. I believe it probably could be done using a program such as After Effects, but is a long, tedious proccess.
+
+I then had difficulties with Premiere Pro, where when I played video back inside Premiere Pro, it differed to what I had done. I exported my video and found what I had done was in the export, although what was playing through Premiere Pro was different, I put this down to a bug in the software, or my specific copy.
+
+It took me a long time to film myself in the car. I don't like being filmed and it gave me quite a lot of anxiety. I did multiple takes, but I am not as confident on camera as I'd like to be. I chose the cuts I was happiest with, but I'm not completely satisfied with the footage.
+
+### How I exported my work
+
+I exported my work for YouTube. I knew I wanted to upload and embed my footage, which meant YouTube was a suitable platform to do so. I chose the output format to suit YouTube 1080p videos, I then upped the bitrate quality slightly from default, checked all other settings, then exported to my desktop.
+
+From there, I uploaded it to YouTube as an unlisted video as I only want people with a link to be able to watch it.
+
+### Asset management
+
+I managed my assets by containing everything in one folder, and then subfolders.
+In the main folder, I had subfolders for both video and images.
+I then had my Premiere Pro file in the main folder, which automatically creates auto-save files in its own folder.
+I also saved a rough copy of my script in this folder, meaning everything was in one place.
+
 
 You can use the [editor on GitHub](https://github.com/Alisterkyle97/VideoEditing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
