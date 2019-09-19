@@ -28,6 +28,8 @@ I incorporated a couple photos throughout my video, only to substitute where I w
 
 I edited the audio recording in Premiere Pro. I used dynamics, different noise filters, mastering, bass, a highpass filter and a panner. I used the filters to help filter out some noise I didn't want, although I wasn't able to eliminate all the sounds I didn't want, I used master to adjust my voice, I used bass to reduce it, as the sound of the car bought in a lot of low frequency noise, I also used a highpass filter to filter some additional low frequency noise. I then noticed that the audio in the left was always slightly higher than the right, so I used panner to help even out the sound balance.
 
+I researched about sound levels, and found I wanted main sounds to peak at around -6 Db. This is normally lower if having music under a voice-over, but as I only ever had one sound at a time, I edited my audio to sit around -6 Db, while occasionally peaking at approximately -5 Db.
+
 
 ### Process
 
