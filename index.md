@@ -8,8 +8,9 @@ https://youtu.be/FCjKXsM19f8
 ### Tools
 
 For my video editing project, I chose to use Adobe Premiere Pro.
-I used Premiere Pro because it seems to be a widely used industry standard application that I had available.
-I also used Adobe Photoshop to edit a couple photos that I included in my video.
+I used Premiere Pro because it seems to be a widely used industry standard application that I had available. It has powerful tools to edit videos, sync audio, create transitions and add effects.
+
+I also used Adobe Photoshop to edit a couple photos that I included in my video. I did basic colour editing to these photos, then imported them to Premiere Pro to use in my video.
 
 
 ### How did I use these tools
@@ -24,7 +25,9 @@ For colour grading, I looked at a clip, colour graded depending on what I wanted
 
 For the first part of my video, I edited the footage to look desaturated and washed out, including making the establishing shots quite desaturated as I felt it fit the scene I was trying achieve.
 
-When the bass dropped during the song, I changed the colour grading of the footage. I pumped the colours up to make them more vibrant, edited contrast, blacks, whites, shadows and highlights to draw attention to the subject of the video.
+As the song kicks in, becomes louder and more active, I changed the colour grading of the footage. I pumped the colours up to make them more vibrant, edited contrast, blacks, whites, shadows and highlights to draw attention to the subject of the video. It also made it fit in well with the music.
+
+The music starts out slower, and talks about being in the dark. That's why I desaturated the first clips and used the dip to black transition. As the music gets quicker, louder and more upbeat, I enhanced colours and contrast and used less slow transitions.
 
 When it came to me filming in the car, I edited contrast and colour to suit. I then added a warm orange tone to my footage, as it was late afternoon when I was filming, and it fit with the environment I was shooting in.
 
@@ -44,6 +47,10 @@ I found the audio used in my video from soundcloud.com. This audio was royalty f
 I took a lot of inspiration from two YouTube channels. [Thatdudeinblue](https://www.youtube.com/user/ThatDudeinBlue) and [Roads Untravelled](https://www.youtube.com/user/roadsuntraveledshow).
 
 In addition to watching many of their videos, I researched specific videos about editing videos on cars, and read all about colour grading. One thing I learnt from one of the mentioned YouTube channels, was to sync video transitions to parts of music, such as drum hits. This makes for smoother transitions throughout the video and audio.
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/07xCDBI"  ><a href="//imgur.com/a/07xCDBI"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/sX9NIDZ"  ><a href="//imgur.com/a/sX9NIDZ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ### Difficulties
@@ -71,39 +78,6 @@ In the main folder, I had subfolders for both video and images.
 I then had my Premiere Pro file in the main folder, which automatically creates auto-save files in its own folder.
 I also saved a rough copy of my script in this folder, meaning everything was in one place.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/kghw8UW" data-context="false" ><a href="//imgur.com/a/kghw8UW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-You can use the [editor on GitHub](https://github.com/Alisterkyle97/VideoEditing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alisterkyle97/VideoEditing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
